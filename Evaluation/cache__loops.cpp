@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../helpers/timer.cpp" 
+#include "../helpers/my_classes/timer.hpp" 
 
 const int n=7500;
 int A[n][n],x[n], y[n];
